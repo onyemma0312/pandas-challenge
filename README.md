@@ -1,9 +1,8 @@
-# pandas-challenge
-Three observable trends based on the data
+# pandas-challenge: Three observable trends based on the data
 1. The gender with most players is the male gender
 2. Other/ Non Disclosed has the highest average purchase per person
 3. Players at age group 20-24 are the the one mostly playing Heroes of Pymoli
-4. The company can take advantage of the female and other/non disclosed players since they have equal or even higher average purchase per person
+4. The company should take a look also on the female and other/non disclosed players since they have equal or even higher average purchase per person
 
 # Pandas Homework - Pandas, Pandas, Pandas
 
